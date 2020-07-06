@@ -2,6 +2,4 @@
  
  Посилання:
  
- https://www.youtube.com/watch?v=6K83dgjkQNw&list=WL&index=126
- 
- 
+https://www.youtube.com/playlist?list=PLsNgcOzG0UPSAQxP82vIWeXL0igP3QzI3
