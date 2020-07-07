@@ -1,11 +1,10 @@
 from django.shortcuts import render
-
-# Create your views here.
+from .models import Task
 
 
 def index(request):
-    return render(request, 'main/index.html')
-
+    tasks = Task.objects.all()
+    return render(request, 'main/index.html', {'title': 'Главная страница сайта', 'tasks': tasks})
 
 def aboutUs(request):
     return render(request, 'main/about-us.html')
